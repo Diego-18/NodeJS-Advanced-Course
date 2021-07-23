@@ -36,3 +36,15 @@ readStreams.on("open", ()=>{
 }).on("error", ()=>{
     console.log('error in the file');
 })
+
+/**
+ * Resumen: Los Streams de Lectura aparte de mejorar el rendimiento de nuestra
+ * aplicación, nos ayuda a interactuar con el contenido que se esta ejecutando en 
+ * nuestra aplicación. 
+*/
+
+/**
+ * Resumen: Read Streams apart from improving the performance of our application, help us to interact with the
+ * application, helps us to interact with the content that is running in our application. 
+ * our application.
+*/
