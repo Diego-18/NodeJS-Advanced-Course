@@ -23,7 +23,7 @@ console.timeEnd('request time');
 /*
  * Español
  *  VERSION 1
- *  Sin el Stream de forma tradicional el archivo 
+ *  Sin el Stream de forma tradicional el archivo, 
  *  despues que termine de leer todo el archivo 
  *  es que lo ejecuta. 
 
